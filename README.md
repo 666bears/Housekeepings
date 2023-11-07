@@ -28,18 +28,18 @@ JDK版本：1.8
 Node版本：14
 #### 四、运行截图（点图片可放大）
 
+![1682674062881](https://github.com/666bears/Housekeepings/assets/143094776/fe3da51e-d4ab-44d1-a005-22687853a400)
+![1682674002007](https://github.com/666bears/Housekeepings/assets/143094776/9aea9873-87aa-40ec-8839-a89be5c49fac)
+![1682670922661](https://github.com/666bears/Housekeepings/assets/143094776/5f9f23bb-ece0-4939-b3a1-7df2798c23bf)
+![1678679226712](https://github.com/666bears/Housekeepings/assets/143094776/780a9326-38e3-4050-8b8d-43d0abf77f1f)
+![1678679216258](https://github.com/666bears/Housekeepings/assets/143094776/6b0df22b-a9a1-4b09-9bb9-388f4e17f226)
+![1678679200693](https://github.com/666bears/Housekeepings/assets/143094776/52c27539-0050-4da4-99ea-b106a771f737)
+![1678679167097](https://github.com/666bears/Housekeepings/assets/143094776/ba0efab1-ea61-43b8-9be2-825335e37441)
+![1678679149576](https://github.com/666bears/Housekeepings/assets/143094776/65c1b058-6970-498f-8427-a67cefb0ce43)
+![1678679127076](https://github.com/666bears/Housekeepings/assets/143094776/c029c947-7998-4710-af99-de77f94ac288)
+![1678679107031](https://github.com/666bears/Housekeepings/assets/143094776/165cde41-87bc-48e9-8d7f-9d3ad37458fb)
 
-![1678679149576](https://github.com/666bears/Housekeepings/assets/143094776/0e5a421d-fe99-4f14-b738-b93a05c4b8dd)
-![1678679127076](https://github.com/666bears/Housekeepings/assets/143094776/1620019f-e8bf-4636-bebe-fa621286b859)
-![1678679107031](https://gi![1682674062881](https://github.com/666bears/Housekeepings/assets/143094776/39057dfa-7ba6-40bd-9a91-48868aa182d7)
-thub.com/666bears/Housekeepings/assets/143094776/e2528616-5449-4262-9fd6-3c4b9757a411)
-![Uploading 1682670922661.j![1682674002007](https://github.com/666bears/Housekeepings/assets/143094776/c05ad904-a3fd-42e8-8fd0-274789920fe8)
-pg…]()
-![1678679226712](https://github.com/666bears/Housekeepings/assets/143094776/5df0d323-b38d-424a-ac56-cfa3ea1ae965)
-![1678679216258](https://github.com/666bears/Housekeepings/assets/143094776/85843616-a16e-4e01-a413-939c4b39e650)
-![1678679200693](https://github.com/666bears/Housekeepings/assets/143094776/d4e13ac5-568f-49dd-8cdb-d340b26edad3)
-![1678679167097](https://github.com/666bears/Housekeepings/assets/143094776/8aa7b8fd-4243-47a3-99a8-551c8677ad6e)
-![1682670922661](https://github.com/666bears/Housekeepings/assets/143094776/12eb65cf-6232-49c0-9cd6-b6dc9d8ea95e)
+
 
 #### 五、安装教程
 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
